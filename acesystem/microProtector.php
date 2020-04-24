@@ -16,7 +16,7 @@
  ******************************************************************************/
 
 
-$Password = 'acidcubic88'; // Set your password here
+$Password = 'xxxx'; // Set your password here
 
 
 
